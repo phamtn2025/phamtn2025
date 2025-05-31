@@ -45,28 +45,28 @@
 
   <header>
     <h1>Nhung Pham</h1>
-    <p>Chào mừng đến với website cá nhân của mình!</p>
+    <p>Welcome to my website!</p>
   </header>
 
   <nav>
-    <a href="#gioithieu">Giới thiệu</a>
-    <a href="#noidung">Nội dung</a>
-    <a href="#lienhe">Liên hệ</a>
+    <a href="#gioithieu">Introcution</a>
+    <a href="#noidung">Content</a>
+    <a href="#lienhe">Contact</a>
   </nav>
 
   <section id="gioithieu">
-    <h2>Giới thiệu</h2>
-    <p>Xin chào! Mình là Nhung Pham. Đây là nơi mình chia sẻ những điều yêu thích, kinh nghiệm sống, và nhiều điều thú vị khác.</p>
+    <h2>Introduction</h2>
+    <p>Hallo! I am Nhung Pham. A scientist and data analyst with a background in Human Geography. My research focus on natural resources management, sustainable agricultural development, rural livelihoods, climate change adaptation, and nature-based solution. I have worked in interdisciplinary and international projects. I have extensive experience working in mixed-methods research and am proficient in Python, SQL, Tableau, and Excel. Here is my website where I share my career, hobbies, experiences and other interesting things in my Life.</p>
   </section>
 
-  <section id="noidung">
+  <section id="Content">
     <h2>Nội dung</h2>
     <p>Bạn có thể cập nhật thêm các bài viết, hình ảnh, video hoặc nhật ký hành trình tại đây.</p>
   </section>
 
-  <section id="lienhe">
+  <section id="Contact">
     <h2>Liên hệ</h2>
-    <p>Bạn có thể liên hệ với mình qua email: <strong>nhungpham@example.com</strong></p>
+    <p>You care welcome to contact me by email: <strong>nhungphamthihuaf@gmail.com</strong></p>
   </section>
 
   <footer>
