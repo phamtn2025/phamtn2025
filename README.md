@@ -75,11 +75,12 @@ province, Indonesia, in progress.
     <p>9. Hoang Dung Ha, Nguyen Thi Da Thao, Pham Thi Nhung, Nguyen Thi Tra Giang. Vulnerability and adaptation to the drought of ethnic minority women in the Krong No river basin, Vietnam. Conference: International Conference on the Mekong, Salween and Red Rivers: Sharing Knowledge and Perspectives Across Borders, At: Bangkok, Thailand, 2016.
    <p>10. Lin Xue, Martin Kappas, Daniel Wyss, Chaoqun Wang, Birgitta Putzenlechner, Nhung Pham Thi, and Jiquan Chen. Assessment of Climate Change and Human Activities on Vegetation Development in Northeast China, 2022, Sensors 2022, 22, 2509. https://doi.org/10.3390/s22072509.</p>
 
-    <h2>Job Preference</h2>
-    <p> I am open to jobs where I can contribute and develop my skills, experience and passion. Here is three of my job Preferences.
-    <p> 1. I would like to work as a scientific researcher in the fields of Natural Resource Management, Sustainable Agriculture, Climate Change Adaptation and Regional Development.
-    <p> 2. I also love working as a data analyst, especially in the topics of Agriculture, Climate, Media, Health care, Education and Real Estate.
-    <p> 3. Another favorite job of mine is starting a business in the field of education, career and socio-cultural integration counseling for immigrants.</p>
+    <h2>Job Preferences</h2>
+    <p>I am open to jobs where I can contribute and develop my skills, experience and passion. Here are three of my job Preferences:
+  
+    <p>1. I would like to work as a scientific researcher in the fields of Natural Resource Management, Sustainable Agriculture, Climate Change Adaptation and Regional Development.
+    <p>2. I also love working as a data analyst, especially in the topics of Agriculture, Climate, Media, Health care, Education and Real Estate.
+    <p>3. Another favorite job of mine is starting a business in the field of education, career and socio-cultural integration counseling for immigrants.</p>
 
     <h2>Hobbies</h2>
     <p>Viết về các sở thích cá nhân như đọc sách, du lịch, nấu ăn, hoặc các hoạt động sáng tạo khác mà bạn yêu thích.</p>
