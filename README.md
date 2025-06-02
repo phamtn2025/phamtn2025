@@ -49,18 +49,20 @@
   </header>
 
   <nav>
-    <a href="#gioithieu">Introcution</a>
-    <a href="#noidung">Content</a>
-    <a href="#lienhe">Contact</a>
+    <a href="#Introduction">Introduction</a>
+    <a href="#My Publication ">My Publication</a>
+    <a href="#My Job Preperence">My Job Preference</a>
+    <a href="#My hobbies">my Hobbies</a>
+    <a href="#Contact">Contact</a>
   </nav>
 
-  <section id="gioithieu">
+  <section id="Introduction">
     <h2>Introduction</h2>
     <p>Hallo! I am Nhung Pham. A scientist and data analyst with a background in Human Geography. My research focus on natural resources management, sustainable agricultural development, rural livelihoods, climate change adaptation, and nature-based solution. I have worked in interdisciplinary and international projects. I have extensive experience working in mixed-methods research and am proficient in Python, SQL, Tableau, and Excel. Here is my website where I share my career, hobbies, experiences and other interesting things in my Life.</p>
   </section>
 
-  <section id="Content">
-    <h2>My publications</h2>
+  <section id"My Publication">
+    <h2>My publication</h2>
     <p> Here is a list of my scientific publications:
     <p>1. Nhung Pham Thi, Jonas Hein, Yvone Kunz, Heiko Faust, Land tenure and land use change:
 Synthesis social qualitative research findings of the project C02/CRC990 from 2013-2023 in Jambi
@@ -74,12 +76,14 @@ province, Indonesia, in progress.
     <p>8. Pham Thị Nhung, Impacts of hydropower development on natural resource accessibility and the livelihoods of local people: The case of Quang Nam province in Vietnam, 2017, Asean-Canada research partnership working paper series.
     <p>9. Hoang Dung Ha, Nguyen Thi Da Thao, Pham Thi Nhung, Nguyen Thi Tra Giang. Vulnerability and adaptation to the drought of ethnic minority women in the Krong No river basin, Vietnam. Conference: International Conference on the Mekong, Salween and Red Rivers: Sharing Knowledge and Perspectives Across Borders, At: Bangkok, Thailand, 2016.
    <p>10. Lin Xue, Martin Kappas, Daniel Wyss, Chaoqun Wang, Birgitta Putzenlechner, Nhung Pham Thi, and Jiquan Chen. Assessment of Climate Change and Human Activities on Vegetation Development in Northeast China, 2022, Sensors 2022, 22, 2509. https://doi.org/10.3390/s22072509.</p>
-    <h2>Job Preferences</h2>
+     <section id="My Job Preferences">
+    <h2>Job Preference</h2>
     <p>I am open to jobs where I can contribute and develop my skills, experience and passion. Here are three of my job Preferences:
     <p>1. I would like to work as a scientific researcher in the fields of Natural Resource Management, Sustainable Agriculture, Climate Change Adaptation and Regional Development.
     <p>2. I also love working as a data analyst, especially in the topics of Agriculture, Climate, Media, Health care, Education and Real Estate.
     <p>3. Another favorite job of mine is starting a business in the field of education, career and socio-cultural integration counseling for immigrants.</p>
-    <h2>Hobbies</h2>
+    <section id"My Hobbies">
+    <h2>My Hobbies</h2>
     <p>Viết về các sở thích cá nhân như đọc sách, du lịch, nấu ăn, hoặc các hoạt động sáng tạo khác mà bạn yêu thích.</p>
   
   </section>
