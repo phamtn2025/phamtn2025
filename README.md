@@ -66,7 +66,7 @@
 
   <section id="Contact">
     <h2>Liên hệ</h2>
-    <p>You care welcome to contact me by email: <strong>nhungphamthihuaf@gmail.com</strong></p>
+    <p>You care welcome to contact me by email: <strong>nhungphamthihuaf@gmail.com or rosephamnov2017@gmail.com</strong></p>
   </section>
 
   <footer>
