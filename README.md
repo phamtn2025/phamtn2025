@@ -59,7 +59,7 @@
     <h2>Introduction</h2>
     <p>Hallo! My name is Nhung Pham. A scientist and data analyst with a background in Human Geography. As a scientist, my research focuses on natural resources management, sustainable agricultural development, rural livelihoods, climate change adaptation, and nature-based solutions. As a data analyst, I am interested in healthcare, medicine, education, consumer behavior, banking and real estate. I have worked on interdisciplinary and international projects. I have extensive experience working in mixed-methods research and am proficient in Python, SQL, Tableau, SPSS, and Excel. Here is my website where I share my career, hobbies,  and other interesting things in my Life.</p>
  <section id="My favorite jobs."">
-    <h2>My favorite jobs."</h2>
+    <h2>My favorite jobs</h2>
     <p>I am open to a job where I can contribute and develop my skills, experience and passion. Here are three of my favorite jobs:
     <p>1. I want to work as a scientific researcher in the fields of natural resources management, sustainable agricultural development, rural livelihoods, climate change adaptation, and nature-based solutions
     <p>2. I also love working as a data analyst, especially in the topics of healthcare, medicine, education, consumer behavior, banking and real estate.
