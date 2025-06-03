@@ -50,7 +50,7 @@
 
   <nav>
     <a href="#Introduction">Introduction</a>
-    <a href="#My favorite jobs.">My favorite jobs."</a>
+    <a href="#My favorite jobs.">My favorite jobs</a>
     <a href="#My publication ">My Publication</a>
     <a href="#My hobbies">my Hobbies</a>
     <a href="#Contact">Contact</a>
